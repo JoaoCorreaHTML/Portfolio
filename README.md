@@ -12,6 +12,8 @@ Arraste a pasta em app.netlify.com/drop ou conecte o repositório do GitHub (bui
 - `index.html`: textos, projetos e links.
 - `css/style.css`: cores (variáveis em `:root`) e layout.
 - `assets/isotipo.png`: isotipo fiel ao original, transparente; a cor vem do CSS (`.mark`). Original em `assets/isotipo-original.png`.
+- `assets/curriculo-joao-paulo-ramalho-correa.pdf`: currículo do botão "Baixar currículo". Para atualizar, substitua o arquivo mantendo o mesmo nome.
+- Número do WhatsApp: procure `wa.me/` em `index.html` (3 lugares).
 - `assets/og.png`, `favicon.ico`: imagem de compartilhamento e favicon.
 
 ## Pendências
